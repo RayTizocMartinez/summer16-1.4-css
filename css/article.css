@@ -8,6 +8,7 @@
   vertical-align: top;
   margin-left: 10px;
   margin-right: 10px;
+  background-color: white;
 
 }
 
@@ -17,4 +18,12 @@
   text-transform: capitalize;
 
 
+}
+
+.article_grid{
+  display: inline-block;
+  background: white;
+  width: 30%;
+  padding-left: 10px;
+  padding-right: 10px;
 }
