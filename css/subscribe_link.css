@@ -1,0 +1,10 @@
+/*Subscribe link css file*/
+
+.subscribe_link{
+  text-transform: uppercase;
+  color: white;
+  display: inline-block;
+  margin-left: 300px;
+  margin-right: 50px;
+
+}

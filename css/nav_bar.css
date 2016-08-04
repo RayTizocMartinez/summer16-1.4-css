@@ -1,0 +1,53 @@
+/*Css file for nav bar*/
+*{box-sizing: border-box;
+
+}
+.nav_bar{
+  display: inline-block;
+  background-color: rgb(180, 41, 46);
+  text-transform: uppercase;
+  color: white;
+  font-size: 20px;
+  margin-left: 60px;
+  margin-right: 60px;
+  padding-left: 33px;
+  padding-right: 33px;
+
+
+}
+
+.nav_bar_logos{
+  width: 40px;
+  height: 30px;
+  opacity: 0.5;
+
+}
+
+.facebookcolor{
+  background-color: rgb(59,	89,	152);
+  width: 40px;
+  height: 30px;
+  opacity: 0.7;
+}
+
+.rssColor{
+  background-color: rgb(204,	143,	50);
+  width: 40px;
+  height: 30px;
+  opacity: 0.7;
+}
+
+.youtubeColor{
+  background-color: rgb(178,	56,	45);
+  width: 40px;
+  height: 30px;
+  opacity: 0.7;
+}
+
+.twitterColor{
+  background-color: rgb(106,	141,	199);
+  width: 40px;
+  height: 30px;
+  opacity: 0.7;
+
+}
