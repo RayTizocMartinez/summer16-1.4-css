@@ -5,6 +5,14 @@
 }
 /*a div made for centering all content*/
 .centering_div{
-  height: 10em;
-  position: relative;
+  margin: 0 auto;
+  width: 650px;
+}
+
+.logo_image{
+  height: 90%;
+  width: 50%;
+  position: absolute;
+  top: 20px;
+  bottom: 10px;
 }

@@ -1,7 +1,13 @@
 /*Article css layout*/
 
 .article_layout{
-  width: 33.3%;
+  display: inline-block;
+  background-color: white;
+  width: 50%;
+  align-content: center;
+  vertical-align: top;
+  margin-left: 10px;
+  margin-right: 10px;
 
 }
 
@@ -9,5 +15,6 @@
 
 .article_titles{
   text-transform: capitalize;
+
 
 }
