@@ -3,3 +3,8 @@
 .background_img{
   background-image: url("../assets/bg.jpg");
 }
+/*a div made for centering all content*/
+.centering_div{
+  height: 10em;
+  position: relative;
+}
