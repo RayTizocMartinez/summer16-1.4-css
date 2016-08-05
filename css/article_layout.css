@@ -1,14 +1,17 @@
 /*Article css layout*/
+*{box-sizing: border-box;
 
+}
 .article_layout{
   display: inline-block;
   background-color: white;
-  width: 50%;
-  align-content: center;
   vertical-align: top;
-  margin-left: 10px;
-  margin-right: 10px;
-  background-color: white;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 30%;
+  margin-top: 10px;
 
 }
 
@@ -21,9 +24,14 @@
 }
 
 .article_grid{
-  display: inline-block;
+  display: inline-grid;
   background: white;
   width: 30%;
   padding-left: 10px;
   padding-right: 10px;
+}
+
+.article-preveiw{
+  font-size: 1px;
+  font-weight: bold;
 }

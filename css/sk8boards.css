@@ -1,0 +1,104 @@
+
+
+.skater-pictures{
+  overflow: auto;
+}
+
+
+.guerrero_aside{
+  background-image: url(../assets/sk8er-2.png);
+  width: 30%;
+  height: 334px;
+  text-transform: uppercase;
+  color: white;
+  text-align: center;
+  border: 3px;
+  border-style: solid;
+  border-color: white;
+  background-size: 310%;
+  box-shadow: 0px 3px 0px rgba(127, 126, 124, 0.5);
+  background-position: right;
+  background-repeat: no-repeat;
+  float:right;
+  vertical-align: top;
+
+}
+
+.guerrero_name{
+  text-align: center;
+  display: flex;
+  text-transform: uppercase;
+  color: white;
+  vertical-align: middle;
+
+}
+
+.moutain_div{
+  width: 26%;
+  height: 50%;
+  background-image: url(../assets/sk8er-4.png);
+  border: 3px;
+  border-color: white;
+  border-style: solid;
+  display: inline-block;
+  align-items: baseline;
+  text-transform: uppercase;
+  background-size: 100%;
+  box-shadow: 0px 3px 0px rgba(127, 126, 124, 0.5);
+
+}
+.moutain_name{
+  color: white;
+  text-align: center;
+  display: flex;
+}
+
+.mullen_div{
+  width: 26%;
+  height: 50%;
+  background-image: url(../assets/sk8er-3.png);
+  border: 3px;
+  border-color: white;
+  border-style: solid;
+  display: inline-block;
+  align-items: baseline;
+  text-transform: uppercase;
+  background-size: 100%;
+  box-shadow: 0px 3px 0px rgba(127, 126, 124, 0.5);
+}
+
+.mullen_name{
+  color: white;
+  display: flex;
+  text-align: center;
+
+}
+
+.caballero_div{
+  width: 400px;
+  height: 48%;
+  background-image: url(../assets/sk8er-1.png);
+  border: 3px;
+  border-color: white;
+  border-style: solid;
+  display: inline-block;
+  margin-top: 10px;
+  background-size: 90%;
+  box-shadow: 0px 3px 0px rgba(127, 126, 124, 0.5);
+
+}
+
+.caballero_name{
+  color: white;
+  text-align: center;
+  display: flex;
+  text-transform: uppercase;
+}
+
+.skate_boards{
+  padding: 18px;
+  margin: 0;
+  display: inline-block;
+  overflow: auto;
+  background: white;
+}

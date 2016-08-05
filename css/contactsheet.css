@@ -1,0 +1,18 @@
+
+.contact_sheet{
+  background: white;
+  width: 50%;
+
+}
+
+
+
+
+.contact_title{
+  text-transform: capitalize;
+  background: white;
+}
+
+.contact_paragraph{
+  background: white;
+}

@@ -9,6 +9,8 @@
   color: white;
   font-size: 20px;
   margin: 20px;
+  text-decoration: none;
+  box-shadow: 0px 3px 0px rgba(127, 126, 124, 0.5);
 }
 
 .nav_bar_logos{
@@ -23,6 +25,7 @@
   width: 40px;
   height: 30px;
   opacity: 0.7;
+  display: inline-block;
 }
 
 .rssColor{
@@ -30,6 +33,7 @@
   width: 40px;
   height: 30px;
   opacity: 0.7;
+  display: inline-block;
 }
 
 .youtubeColor{
@@ -37,6 +41,7 @@
   width: 40px;
   height: 30px;
   opacity: 0.7;
+  display: inline-block;
 }
 
 .twitterColor{
@@ -44,5 +49,6 @@
   width: 40px;
   height: 30px;
   opacity: 0.7;
+  display: inline-block;
 
 }
