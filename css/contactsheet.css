@@ -1,7 +1,10 @@
 
 .contact_sheet{
   background: white;
-  width: 50%;
+  width: 45%;
+  display: inline-block;
+  margin: 0px;
+
 
 }
 
@@ -15,4 +18,29 @@
 
 .contact_paragraph{
   background: white;
+}
+
+
+.formSheet{
+  width: 90%;
+  padding: 12px;
+  box-sizing: border-box;
+  border: 2px;
+  border-radius: 4px;
+  display: inline-block;
+  box-shadow: 0px -3px 0px rgba(255, 255, 255, 0.9);
+  border-bottom: 10px;
+}
+
+.yourMessage{
+  width: 50%;
+}
+
+.formSpacing{
+  display: inline-block;
+  margin: 0px;
+  width: 47%;
+  background: grey;
+  border-bottom: 20px;
+  box-shadow: -3px -3px 0px rgba(255, 0, 0, 0.5);
 }

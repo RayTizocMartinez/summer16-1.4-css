@@ -1,17 +1,17 @@
 /*Article css layout*/
-*{box-sizing: border-box;
 
-}
+
 .article_layout{
   display: inline-block;
   background-color: white;
   vertical-align: top;
   margin-left: 0px;
   margin-right: 0px;
-  padding-left: 5px;
-  padding-right: 5px;
-  width: 30%;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 32.5%;
   margin-top: 10px;
+  height: 90%;
 
 }
 
@@ -34,4 +34,15 @@
 .article-preveiw{
   font-size: 1px;
   font-weight: bold;
+}
+
+
+.readMore{
+  color: red;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-left: 45px;
+
+
 }
